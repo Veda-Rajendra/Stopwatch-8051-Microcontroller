@@ -1,2 +1,4 @@
 # Stopwatch-8051-Microcontroller
 8051 Microcontroller code and report for a stopwatch project
+            Stopwatches find use as time keeping device in many fields, namely sports. Stopwatches may be analog or digital. Its function is to find out how long it takes in an activity .Digital stopwatches are much more common the analog version owing to their higher accuracy and ease of use. Here we have tried to realize a digital stopwatch of reasonable accuracy and reliability.
+           This particular stopwatch can count up to 9 minutes and 59.9 seconds .It is accurate up to one tenth of a second. The circuit is relatively simple and easy to realize .The heart of the circuit is an a stable mv followed by counter and decoder stages. The circuit us explained extensively in the following pages.The circuit operates on 5-v dc supply. It uses a seven segment LED display of common anode type to show time
